@@ -1,0 +1,14 @@
+.background {
+  background-image: linear-gradient(to top right, black, red);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.main-container {
+  width: 300px;
+  height: 500px;
+  background: whitesmoke;
+}
