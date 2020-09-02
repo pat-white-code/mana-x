@@ -12,3 +12,31 @@
   height: 500px;
   background: whitesmoke;
 }
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px red solid;
+  height: 30%;
+}
+
+.input-icons i { 
+  position: absolute; 
+} 
+
+.input-icons { 
+  width: 100%; 
+  margin-bottom: 10px; 
+} 
+
+.icon { 
+  padding: 10px; 
+  min-width: 40px; 
+} 
+
+.input-field { 
+  width: 100%; 
+  padding: 10px; 
+  text-align: center; 
+} 
